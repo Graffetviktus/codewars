@@ -1,2 +1,2 @@
 # codewars
-in this repository im solve codewars katas
+Here im solve different katas from codewars. Discription of task you can find in JavaScript files.
